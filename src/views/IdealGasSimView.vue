@@ -43,7 +43,7 @@
           <label for="color">Color</label>
           <input v-model="params.color" type="color" id="color" name="color">
 
-          <button type="submit">Start</button>
+          <button type="submit">Start/Reset</button>
 
 <!--          <button type="reset">Reset</button>-->
         </form>
