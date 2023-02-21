@@ -7,7 +7,7 @@
     <router-link to="/"> Головна сторінка </router-link>
 <!--    EXAMPLE -->
     <router-link to="/IdealGas"> Симуляція Ідеального Газу </router-link>
-    <router-link to="/"> Головна сторінка </router-link>
+    <router-link to="/IdealGasNew"> Нова Симуляція Ідеального Газу </router-link>
   </div>
 </template>
 
